@@ -15,3 +15,6 @@ pip install validate-docbr
 - Como construir padrões e encontra-los dentro de textos;
 - Como validar com expressões regulares;
 - Como criar máscaras com expressões regulares.
+- Como trabalhar com datas e horas no Python;
+- Métodos da classe datetime;
+- Para que serve o timedelta() e como utilizá-lo.
