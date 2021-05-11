@@ -11,3 +11,7 @@ pip install validate-docbr
 - Como utilizar mais uma classe da validate_docbr;
 - O que é o padrão de projeto Factory;
 - Como e quando implementar uma Factory em nosso código.
+- O que são expressões regulares;
+- Como construir padrões e encontra-los dentro de textos;
+- Como validar com expressões regulares;
+- Como criar máscaras com expressões regulares.
