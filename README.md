@@ -18,3 +18,7 @@ pip install validate-docbr
 - Como trabalhar com datas e horas no Python;
 - Métodos da classe datetime;
 - Para que serve o timedelta() e como utilizá-lo.
+- O que são requisições HTTP;
+- Para que serve e como acessar uma API;
+- Como utilizar a biblioteca requests do Python;
+- Acessar a API do ViaCEP e retornar informações do endereço a partir do CEP.
